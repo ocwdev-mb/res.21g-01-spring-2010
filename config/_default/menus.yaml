@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
+  name: Hiragana
+  pageRef: /pages/hiragana/
+  weight: 10
+- identifier: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
+  name: Katakana
+  pageRef: /pages/katakana/
+  weight: 20
